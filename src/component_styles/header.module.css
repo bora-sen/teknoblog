@@ -1,0 +1,21 @@
+@tailwind utilities;
+
+@layer utilities {
+    .header{
+        @apply flex items-center justify-between bg-neutral-200 h-16
+    }
+    .brand{
+        @apply font-montserrat text-5xl text-gray-900 ml-5
+    }
+    .links{
+        @apply flex list-none
+    }
+    .list_item {
+        @apply mx-4 font-sumana
+    }
+    .list_item a{
+        @apply no-underline text-black
+    }
+
+}
+

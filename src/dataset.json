@@ -1,0 +1,56 @@
+{
+    "authors": [
+        {
+            "id":1,
+            "name":"James Alderson",
+            "avatar":"https://i.pravatar.cc/100/1"
+        },
+        {
+            "id":2,
+            "name":"David Jones",
+            "avatar":"https://i.pravatar.cc/100/2"
+        }
+    ],
+    "posts":[
+        {
+            "id":1,
+            "title":"Lorem ipsum dolor sit amet.",
+            "content":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sollicitudin quis nibh nec venenatis. Pellentesque vitae ultricies nibh. Donec congue ligula mi, nec ullamcorper enim sagittis eget. Donec finibus ac nisl non mollis. Praesent malesuada vel nisl vitae ornare. Fusce tristique arcu justo, eget feugiat est lobortis ut. Nunc viverra tempus turpis, vel tristique libero venenatis facilisis. In leo eros, congue at libero et, egestas facilisis orci. Aliquam id commodo quam, sed posuere libero. Nulla eget fringilla nulla. Mauris a ante a elit luctus tempor.  Praesent nulla lectus, egestas eget tincidunt quis, aliquam id lorem. Cras eu dui ut elit varius tempus a quis arcu. Donec pulvinar vehicula neque, et gravida velit vehicula sit amet. Duis laoreet volutpat ultrices. Sed eget ipsum ex. Vivamus tellus magna, venenatis ac elementum quis, aliquam a dolor. Praesent sed massa efficitur nisi fringilla consectetur nec nec magna. Donec sem ipsum, lacinia sed tincidunt a, condimentum eget ligula.  Vestibulum vel justo nisl. Aenean vestibulum aliquet dolor, in pretium nisl pulvinar quis. Donec nec varius metus, a blandit metus. Proin rhoncus est urna, at gravida mi commodo id. Etiam efficitur leo in metus scelerisque, id pretium ipsum ornare. Fusce egestas commodo rutrum. Aliquam a ipsum ut nisi convallis scelerisque.",
+            "authorId":1,
+            "coverImage":"https://loremflickr.com/1280/720/6",
+            "createdAt":"18:21 - 12.21.2022"
+        },
+        {
+            "id":2,
+            "title":"Lorem ipsum dolor sit amet.",
+            "content":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sollicitudin quis nibh nec venenatis. Pellentesque vitae ultricies nibh. Donec congue ligula mi, nec ullamcorper enim sagittis eget. Donec finibus ac nisl non mollis. Praesent malesuada vel nisl vitae ornare. Fusce tristique arcu justo, eget feugiat est lobortis ut. Nunc viverra tempus turpis, vel tristique libero venenatis facilisis. In leo eros, congue at libero et, egestas facilisis orci. Aliquam id commodo quam, sed posuere libero. Nulla eget fringilla nulla. Mauris a ante a elit luctus tempor.  Praesent nulla lectus, egestas eget tincidunt quis, aliquam id lorem. Cras eu dui ut elit varius tempus a quis arcu. Donec pulvinar vehicula neque, et gravida velit vehicula sit amet. Duis laoreet volutpat ultrices. Sed eget ipsum ex. Vivamus tellus magna, venenatis ac elementum quis, aliquam a dolor. Praesent sed massa efficitur nisi fringilla consectetur nec nec magna. Donec sem ipsum, lacinia sed tincidunt a, condimentum eget ligula.  Vestibulum vel justo nisl. Aenean vestibulum aliquet dolor, in pretium nisl pulvinar quis. Donec nec varius metus, a blandit metus. Proin rhoncus est urna, at gravida mi commodo id. Etiam efficitur leo in metus scelerisque, id pretium ipsum ornare. Fusce egestas commodo rutrum. Aliquam a ipsum ut nisi convallis scelerisque.",
+            "authorId":2,
+            "coverImage":"https://loremflickr.com/1280/720/2",
+            "createdAt":"18:21 - 12.21.2022"
+        },
+        {
+            "id":3,
+            "title":"Lorem ipsum dolor sit amet.",
+            "content":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sollicitudin quis nibh nec venenatis. Pellentesque vitae ultricies nibh. Donec congue ligula mi, nec ullamcorper enim sagittis eget. Donec finibus ac nisl non mollis. Praesent malesuada vel nisl vitae ornare. Fusce tristique arcu justo, eget feugiat est lobortis ut. Nunc viverra tempus turpis, vel tristique libero venenatis facilisis. In leo eros, congue at libero et, egestas facilisis orci. Aliquam id commodo quam, sed posuere libero. Nulla eget fringilla nulla. Mauris a ante a elit luctus tempor.  Praesent nulla lectus, egestas eget tincidunt quis, aliquam id lorem. Cras eu dui ut elit varius tempus a quis arcu. Donec pulvinar vehicula neque, et gravida velit vehicula sit amet. Duis laoreet volutpat ultrices. Sed eget ipsum ex. Vivamus tellus magna, venenatis ac elementum quis, aliquam a dolor. Praesent sed massa efficitur nisi fringilla consectetur nec nec magna. Donec sem ipsum, lacinia sed tincidunt a, condimentum eget ligula.  Vestibulum vel justo nisl. Aenean vestibulum aliquet dolor, in pretium nisl pulvinar quis. Donec nec varius metus, a blandit metus. Proin rhoncus est urna, at gravida mi commodo id. Etiam efficitur leo in metus scelerisque, id pretium ipsum ornare. Fusce egestas commodo rutrum. Aliquam a ipsum ut nisi convallis scelerisque.",
+            "authorId":2,
+            "coverImage":"https://loremflickr.com/1280/720/3",
+            "createdAt":"18:21 - 12.21.2022"
+        },
+        {
+            "id":4,
+            "title":"Lorem ipsum dolor sit amet.",
+            "content":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sollicitudin quis nibh nec venenatis. Pellentesque vitae ultricies nibh. Donec congue ligula mi, nec ullamcorper enim sagittis eget. Donec finibus ac nisl non mollis. Praesent malesuada vel nisl vitae ornare. Fusce tristique arcu justo, eget feugiat est lobortis ut. Nunc viverra tempus turpis, vel tristique libero venenatis facilisis. In leo eros, congue at libero et, egestas facilisis orci. Aliquam id commodo quam, sed posuere libero. Nulla eget fringilla nulla. Mauris a ante a elit luctus tempor.  Praesent nulla lectus, egestas eget tincidunt quis, aliquam id lorem. Cras eu dui ut elit varius tempus a quis arcu. Donec pulvinar vehicula neque, et gravida velit vehicula sit amet. Duis laoreet volutpat ultrices. Sed eget ipsum ex. Vivamus tellus magna, venenatis ac elementum quis, aliquam a dolor. Praesent sed massa efficitur nisi fringilla consectetur nec nec magna. Donec sem ipsum, lacinia sed tincidunt a, condimentum eget ligula.  Vestibulum vel justo nisl. Aenean vestibulum aliquet dolor, in pretium nisl pulvinar quis. Donec nec varius metus, a blandit metus. Proin rhoncus est urna, at gravida mi commodo id. Etiam efficitur leo in metus scelerisque, id pretium ipsum ornare. Fusce egestas commodo rutrum. Aliquam a ipsum ut nisi convallis scelerisque.",
+            "authorId":2,
+            "coverImage":"https://loremflickr.com/1280/720/4",
+            "createdAt":"18:21 - 12.21.2022"
+        },
+        {
+            "id":5,
+            "title":"Lorem ipsum dolor sit amet.",
+            "content":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sollicitudin quis nibh nec venenatis. Pellentesque vitae ultricies nibh. Donec congue ligula mi, nec ullamcorper enim sagittis eget. Donec finibus ac nisl non mollis. Praesent malesuada vel nisl vitae ornare. Fusce tristique arcu justo, eget feugiat est lobortis ut. Nunc viverra tempus turpis, vel tristique libero venenatis facilisis. In leo eros, congue at libero et, egestas facilisis orci. Aliquam id commodo quam, sed posuere libero. Nulla eget fringilla nulla. Mauris a ante a elit luctus tempor.  Praesent nulla lectus, egestas eget tincidunt quis, aliquam id lorem. Cras eu dui ut elit varius tempus a quis arcu. Donec pulvinar vehicula neque, et gravida velit vehicula sit amet. Duis laoreet volutpat ultrices. Sed eget ipsum ex. Vivamus tellus magna, venenatis ac elementum quis, aliquam a dolor. Praesent sed massa efficitur nisi fringilla consectetur nec nec magna. Donec sem ipsum, lacinia sed tincidunt a, condimentum eget ligula.  Vestibulum vel justo nisl. Aenean vestibulum aliquet dolor, in pretium nisl pulvinar quis. Donec nec varius metus, a blandit metus. Proin rhoncus est urna, at gravida mi commodo id. Etiam efficitur leo in metus scelerisque, id pretium ipsum ornare. Fusce egestas commodo rutrum. Aliquam a ipsum ut nisi convallis scelerisque.",
+            "authorId":1,
+            "coverImage":"https://loremflickr.com/1280/720/5",
+            "createdAt":"18:21 - 12.21.2022"
+        }
+    ]
+}
