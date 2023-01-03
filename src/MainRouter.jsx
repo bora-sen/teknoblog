@@ -8,7 +8,7 @@ function MainRouter() {
         <Route path="/" element={<Home />} />
         <Route path="/blog" element={<Blog />} />
         <Route path="/policies" element={<Policies />} />
-        <Route path="/post" element={<PostPage />} />
+        <Route path="/post/:id" element={<PostPage />} />
     </Routes>
   )
 }

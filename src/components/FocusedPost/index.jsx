@@ -1,32 +1,19 @@
 import React from 'react';
+import { useParams } from 'react-router-dom';
 import dataset from '../../dataset.json';
 
 function FocusedPost() {
-    let post_id = 1;
-    let posts = dataset.posts;
-    let authors = dataset.authors;
-
-
-    let sel_post = posts.find(post => {
-        return post.id === post_id;
-    })
-    let sel_author = authors.find(author => {
-        return author.id === sel_post.id;
-    })
+    let param = useParams();
+    let local_id = param.id;
+    let sel_post = dataset.posts.find(post => post.id === parseInt(local_id));
+    let sel_author = dataset.authors.find(author => author.id === sel_post.authorId);
+    console.log("Displaying Post: "+sel_post.title);
+    console.log("By:  "+sel_author.name);
 
   return (
     <div>
-        <img src={sel_post.coverImage} alt="Post Cover"/>
-        <h2>{sel_post.title}</h2>
-        <div>
-            <img src={sel_author.avatar} alt="Avatar"/>
-            <h3>{sel_author.name}</h3>
-            <hr />
-            <p>{sel_post.content}</p>
-        </div>
 
     </div>
-
   )
 }
 

@@ -5,7 +5,7 @@ function PostPage() {
   return (
     <>
     <Header />
-    <FocusedPost />
+    <FocusedPost/>
     <Footer />
     </>
   )
