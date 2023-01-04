@@ -1,12 +1,12 @@
 import React from 'react'
-import style from '../../component_styles/footer.module.css';
+import style from './footer.module.css';
 
 
 function Footer() {
   return (
     <section className='bg-gray-200 h-auto mt-12 font-sumana'>
       <div className='flex items-center'>
-        <span className=' ml-12 text-5xl font-montserrat'>TeknoBlog</span>
+        <span className=' ml-12 text-5xl md:text-2xl font-montserrat'>TeknoBlog</span>
         <div className='flex ml-auto mr-28'>
       <div className='flex mx-28'>
         <div>

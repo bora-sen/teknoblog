@@ -1,5 +1,6 @@
 import React from 'react';
-import style from '../../component_styles/header.module.css';
+import style from './header.module.css';
+import ThemeSwitchButton from '../ThemeSwitchButton';
 
 function Header() {
   return (
@@ -10,6 +11,7 @@ function Header() {
             <li><a href="/" className={style.list_item}>Etkinlikler</a></li>
             <li><a href="/" className={style.list_item}>Hakkımızda</a></li>
         </ul>
+        <ThemeSwitchButton />
     </div>
   )
 }

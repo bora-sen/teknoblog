@@ -19,7 +19,7 @@ function Posts() {
             return (
                 /* Post Card */
                 <div className='flex my-4 p-2 hover:bg-gray-100 transition-colors flex-col sm:flex-row'>
-                    <img className=' w-full mb-3 sm:w-48 md:w-96 object-cover mr-4' src={post.coverImage} alt="Post Title Image"/>
+                    <img className=' w-full mb-3 sm:w-48 md:w-96 lg:w-96 object-cover mr-4' src={post.coverImage} alt="Post Title Image"/>
                     <div className=''>
                         <h5 className='text-2xl font-montserrat'>{post.title}</h5>
                         <div className='flex items-center my-2'>

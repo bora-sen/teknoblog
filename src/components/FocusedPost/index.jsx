@@ -12,6 +12,17 @@ function FocusedPost() {
 
   return (
     <div>
+        <img className="w-full h-96 object-cover" src={sel_post.coverImage} alt="Blog Post Cover" />
+
+        <div className='flex mx-1 items-center mt-1'>
+          <img className='w-8 h-8 rounded-full mr-1' src={sel_author.avatar} alt={sel_author.name}/>
+          <span>{sel_author.name}</span>
+          <span className='ml-2 text-xs text-gray-400'>{sel_post.createdAt}</span>
+        </div>
+
+
+        <h2 className='text-4xl font-montserrat mb-1'>{sel_post.title}</h2>
+        <p>{sel_post.content}</p>
 
     </div>
   )

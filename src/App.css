@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;700&family=Montserrat:ital,wght@1,900&family=Nunito:wght@400;500&family=Sumana:wght@400;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
 /*
         For Headers And Stuff
     font-family: 'Libre Franklin', sans-serif;  (400-700)
@@ -14,11 +14,4 @@
     font-family: 'Montserrat', sans-serif;
 
 */
-
-.container{
-    width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 
