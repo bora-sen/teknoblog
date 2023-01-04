@@ -1,8 +1,10 @@
+@tailwind base;
+@tailwind components;
 @tailwind utilities;
 
 @layer utilities {
     .header{
-        @apply flex items-center justify-between bg-neutral-200 h-auto transition-all py-4 flex-col
+        @apply flex items-center justify-between bg-neutral-200 h-auto transition-all py-4 flex-col xl:flex-row
     }
     .brand{
         @apply font-montserrat text-5xl text-gray-900 sm:ml-5 md:ml-5 lg:ml-5

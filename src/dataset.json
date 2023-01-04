@@ -3,12 +3,12 @@
         {
             "id":1,
             "name":"James Alderson",
-            "avatar":"https://i.pravatar.cc/100/1"
+            "avatar":"https://avatars.dicebear.com/api/initials/james-alderson.svg"
         },
         {
             "id":2,
             "name":"David Jones",
-            "avatar":"https://i.pravatar.cc/100/2"
+            "avatar":"https://avatars.dicebear.com/api/initials/david-jones.svg"
         }
     ],
     "posts":[
@@ -17,7 +17,7 @@
             "title":"Lorem ipsum dolor sit amet.",
             "content":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sollicitudin quis nibh nec venenatis. Pellentesque vitae ultricies nibh. Donec congue ligula mi, nec ullamcorper enim sagittis eget. Donec finibus ac nisl non mollis. Praesent malesuada vel nisl vitae ornare. Fusce tristique arcu justo, eget feugiat est lobortis ut. Nunc viverra tempus turpis, vel tristique libero venenatis facilisis. In leo eros, congue at libero et, egestas facilisis orci. Aliquam id commodo quam, sed posuere libero. Nulla eget fringilla nulla. Mauris a ante a elit luctus tempor.  Praesent nulla lectus, egestas eget tincidunt quis, aliquam id lorem. Cras eu dui ut elit varius tempus a quis arcu. Donec pulvinar vehicula neque, et gravida velit vehicula sit amet. Duis laoreet volutpat ultrices. Sed eget ipsum ex. Vivamus tellus magna, venenatis ac elementum quis, aliquam a dolor. Praesent sed massa efficitur nisi fringilla consectetur nec nec magna. Donec sem ipsum, lacinia sed tincidunt a, condimentum eget ligula.  Vestibulum vel justo nisl. Aenean vestibulum aliquet dolor, in pretium nisl pulvinar quis. Donec nec varius metus, a blandit metus. Proin rhoncus est urna, at gravida mi commodo id. Etiam efficitur leo in metus scelerisque, id pretium ipsum ornare. Fusce egestas commodo rutrum. Aliquam a ipsum ut nisi convallis scelerisque.",
             "authorId":1,
-            "coverImage":"https://loremflickr.com/1280/720/6",
+            "coverImage":"https://burst.shopifycdn.com/photos/macbook-air-on-desk.jpg?width=1200&format=pjpg&exif=1&iptc=1",
             "createdAt":"18:21 - 12.21.2022"
         },
         {
@@ -25,7 +25,7 @@
             "title":"Lorem ipsum dolor sit amet.",
             "content":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sollicitudin quis nibh nec venenatis. Pellentesque vitae ultricies nibh. Donec congue ligula mi, nec ullamcorper enim sagittis eget. Donec finibus ac nisl non mollis. Praesent malesuada vel nisl vitae ornare. Fusce tristique arcu justo, eget feugiat est lobortis ut. Nunc viverra tempus turpis, vel tristique libero venenatis facilisis. In leo eros, congue at libero et, egestas facilisis orci. Aliquam id commodo quam, sed posuere libero. Nulla eget fringilla nulla. Mauris a ante a elit luctus tempor.  Praesent nulla lectus, egestas eget tincidunt quis, aliquam id lorem. Cras eu dui ut elit varius tempus a quis arcu. Donec pulvinar vehicula neque, et gravida velit vehicula sit amet. Duis laoreet volutpat ultrices. Sed eget ipsum ex. Vivamus tellus magna, venenatis ac elementum quis, aliquam a dolor. Praesent sed massa efficitur nisi fringilla consectetur nec nec magna. Donec sem ipsum, lacinia sed tincidunt a, condimentum eget ligula.  Vestibulum vel justo nisl. Aenean vestibulum aliquet dolor, in pretium nisl pulvinar quis. Donec nec varius metus, a blandit metus. Proin rhoncus est urna, at gravida mi commodo id. Etiam efficitur leo in metus scelerisque, id pretium ipsum ornare. Fusce egestas commodo rutrum. Aliquam a ipsum ut nisi convallis scelerisque.",
             "authorId":2,
-            "coverImage":"https://loremflickr.com/1280/720/2",
+            "coverImage":"https://media.licdn.com/dms/image/D4E12AQFswUqDcrq8Bg/article-cover_image-shrink_720_1280/0/1662756467886?e=2147483647&v=beta&t=XL93SX7XbFLYHojlMsbqO_T92z0pVWPRDHqWQ6r0bpI",
             "createdAt":"18:21 - 12.21.2022"
         },
         {
@@ -33,7 +33,7 @@
             "title":"Lorem ipsum dolor sit amet.",
             "content":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sollicitudin quis nibh nec venenatis. Pellentesque vitae ultricies nibh. Donec congue ligula mi, nec ullamcorper enim sagittis eget. Donec finibus ac nisl non mollis. Praesent malesuada vel nisl vitae ornare. Fusce tristique arcu justo, eget feugiat est lobortis ut. Nunc viverra tempus turpis, vel tristique libero venenatis facilisis. In leo eros, congue at libero et, egestas facilisis orci. Aliquam id commodo quam, sed posuere libero. Nulla eget fringilla nulla. Mauris a ante a elit luctus tempor.  Praesent nulla lectus, egestas eget tincidunt quis, aliquam id lorem. Cras eu dui ut elit varius tempus a quis arcu. Donec pulvinar vehicula neque, et gravida velit vehicula sit amet. Duis laoreet volutpat ultrices. Sed eget ipsum ex. Vivamus tellus magna, venenatis ac elementum quis, aliquam a dolor. Praesent sed massa efficitur nisi fringilla consectetur nec nec magna. Donec sem ipsum, lacinia sed tincidunt a, condimentum eget ligula.  Vestibulum vel justo nisl. Aenean vestibulum aliquet dolor, in pretium nisl pulvinar quis. Donec nec varius metus, a blandit metus. Proin rhoncus est urna, at gravida mi commodo id. Etiam efficitur leo in metus scelerisque, id pretium ipsum ornare. Fusce egestas commodo rutrum. Aliquam a ipsum ut nisi convallis scelerisque.",
             "authorId":2,
-            "coverImage":"https://loremflickr.com/1280/720/3",
+            "coverImage":"https://assets.thehansindia.com/h-upload/2021/05/25/1600x960_1078280-tech.jpg",
             "createdAt":"18:21 - 12.21.2022"
         },
         {
@@ -41,7 +41,7 @@
             "title":"Lorem ipsum dolor sit amet.",
             "content":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sollicitudin quis nibh nec venenatis. Pellentesque vitae ultricies nibh. Donec congue ligula mi, nec ullamcorper enim sagittis eget. Donec finibus ac nisl non mollis. Praesent malesuada vel nisl vitae ornare. Fusce tristique arcu justo, eget feugiat est lobortis ut. Nunc viverra tempus turpis, vel tristique libero venenatis facilisis. In leo eros, congue at libero et, egestas facilisis orci. Aliquam id commodo quam, sed posuere libero. Nulla eget fringilla nulla. Mauris a ante a elit luctus tempor.  Praesent nulla lectus, egestas eget tincidunt quis, aliquam id lorem. Cras eu dui ut elit varius tempus a quis arcu. Donec pulvinar vehicula neque, et gravida velit vehicula sit amet. Duis laoreet volutpat ultrices. Sed eget ipsum ex. Vivamus tellus magna, venenatis ac elementum quis, aliquam a dolor. Praesent sed massa efficitur nisi fringilla consectetur nec nec magna. Donec sem ipsum, lacinia sed tincidunt a, condimentum eget ligula.  Vestibulum vel justo nisl. Aenean vestibulum aliquet dolor, in pretium nisl pulvinar quis. Donec nec varius metus, a blandit metus. Proin rhoncus est urna, at gravida mi commodo id. Etiam efficitur leo in metus scelerisque, id pretium ipsum ornare. Fusce egestas commodo rutrum. Aliquam a ipsum ut nisi convallis scelerisque.",
             "authorId":2,
-            "coverImage":"https://loremflickr.com/1280/720/4",
+            "coverImage":"https://imageio.forbes.com/specials-images/imageserve/61d52d4e3a76ed81ac034ea8/The-10-Tech-Trends-That-Will-Transform-Our-World/960x0.jpg?format=jpg&width=960",
             "createdAt":"18:21 - 12.21.2022"
         },
         {
@@ -49,7 +49,7 @@
             "title":"Lorem ipsum dolor sit amet.",
             "content":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sollicitudin quis nibh nec venenatis. Pellentesque vitae ultricies nibh. Donec congue ligula mi, nec ullamcorper enim sagittis eget. Donec finibus ac nisl non mollis. Praesent malesuada vel nisl vitae ornare. Fusce tristique arcu justo, eget feugiat est lobortis ut. Nunc viverra tempus turpis, vel tristique libero venenatis facilisis. In leo eros, congue at libero et, egestas facilisis orci. Aliquam id commodo quam, sed posuere libero. Nulla eget fringilla nulla. Mauris a ante a elit luctus tempor.  Praesent nulla lectus, egestas eget tincidunt quis, aliquam id lorem. Cras eu dui ut elit varius tempus a quis arcu. Donec pulvinar vehicula neque, et gravida velit vehicula sit amet. Duis laoreet volutpat ultrices. Sed eget ipsum ex. Vivamus tellus magna, venenatis ac elementum quis, aliquam a dolor. Praesent sed massa efficitur nisi fringilla consectetur nec nec magna. Donec sem ipsum, lacinia sed tincidunt a, condimentum eget ligula.  Vestibulum vel justo nisl. Aenean vestibulum aliquet dolor, in pretium nisl pulvinar quis. Donec nec varius metus, a blandit metus. Proin rhoncus est urna, at gravida mi commodo id. Etiam efficitur leo in metus scelerisque, id pretium ipsum ornare. Fusce egestas commodo rutrum. Aliquam a ipsum ut nisi convallis scelerisque.",
             "authorId":1,
-            "coverImage":"https://loremflickr.com/1280/720/5",
+            "coverImage":"https://www.usnews.com/object/image/00000183-b3bd-da0c-a3e7-f3bfbc1c0000/gettyimages-1200023278.jpg?update-time=1665168008392&size=responsive640",
             "createdAt":"18:21 - 12.21.2022"
         }
     ]

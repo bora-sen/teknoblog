@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .card {
+        @apply flex my-4 p-2 hover:bg-gray-100 transition-colors flex-col sm:flex-row dark:hover:text-gray-900
+    }
+    .card_image {
+        @apply w-full mb-3 sm:w-48 md:w-96 lg:w-96 object-cover mr-4 dark:w-full
+    }
+    .card_title {
+        @apply text-2xl font-montserrat
+    }
+    .card_content {
+        @apply text-base text-ellipsis overflow-hidden h-24
+    }
+    .author_section {
+        @apply bg-black
+    }
+    .author_avatar {
+        @apply rounded-full border-none w-12 mr-2 font-mono
+    }
+    .author_name {
+        @apply text-sm
+    }
+
+    .read_more_btn {
+        @apply px-4 bg-indigo-600 hover:bg-indigo-800 transition-colors text-white rounded-sm mt-2
+    }
+}

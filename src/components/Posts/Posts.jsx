@@ -1,5 +1,7 @@
 import React from 'react';
 import dataset from '../../dataset.json';
+import style from './posts.module.css'
+import Fade from 'react-reveal/Reveal'
 
 function Posts() {
     let posts = dataset.posts;
@@ -18,19 +20,21 @@ function Posts() {
         {posts.map(post => {
             return (
                 /* Post Card */
-                <div className='flex my-4 p-2 hover:bg-gray-100 transition-colors flex-col sm:flex-row'>
-                    <img className=' w-full mb-3 sm:w-48 md:w-96 lg:w-96 object-cover mr-4' src={post.coverImage} alt="Post Title Image"/>
+                <Fade>
+                <div className={style.card}>
+                    <img className={style.card_image} src={post.coverImage} alt="This is a "/>
                     <div className=''>
-                        <h5 className='text-2xl font-montserrat'>{post.title}</h5>
-                        <div className='flex items-center my-2'>
-                            <img className='rounded-full border-none w-12 mr-2 font-mono' src={getAuthorById(post.authorId).avatar}/>
-                            <span className='text-sm'>{getAuthorById(post.authorId).name}</span>
+                        <h5 className={style.card_title}>{post.title}</h5>
+                        <div className={style.author_section}>
+                            <img className={style.author_avatar} src={getAuthorById(post.authorId).avatar} alt="Meaningful text"/>
+                            <span className={style.author_name}>{getAuthorById(post.authorId).name}</span>
                         </div>
-                        <p className='text-md text-ellipsis overflow-hidden h-24'>{post.content}</p>
-                        <button className='px-4 bg-indigo-600 hover:bg-indigo-800 transition-colors text-white rounded-sm mt-2'>Read More..</button>
+                        <p className={style.card_content}>{post.content}</p>
+                        <button className={style.read_more_btn}>Read More..</button>
                     </div>
 
                 </div>
+                </Fade>
             )
         })}
     </ul>
