@@ -19,13 +19,16 @@
         @apply bg-black
     }
     .author_avatar {
-        @apply rounded-full border-none w-12 mr-2 font-mono
+        @apply rounded-full border-none w-8 mr-2 my-2 font-mono
     }
     .author_name {
         @apply text-sm
     }
 
     .read_more_btn {
-        @apply px-4 bg-indigo-600 hover:bg-indigo-800 transition-colors text-white rounded-sm mt-2
+        @apply inline-flex px-4 bg-indigo-600 hover:bg-indigo-800 transition-colors text-white rounded-sm mt-2
+    }
+    .post_createdAt{
+        @apply text-xs text-gray-300
     }
 }
