@@ -46,14 +46,6 @@ function Footer() {
       </div>
 
 
-
-
-
-      
-
-
-
-
       <div className='text-center text-sm py-2'>
         <span>
         Copyright © 2023 | All Rights Reserved
